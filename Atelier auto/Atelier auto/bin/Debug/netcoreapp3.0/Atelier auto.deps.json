@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Atelier auto/1.0.0": {
+        "runtime": {
+          "Atelier auto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atelier auto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\obj\Debug\netcoreapp3.0\Atelier auto.csprojAssemblyReference.cache
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\obj\Debug\netcoreapp3.0\Atelier auto.AssemblyInfoInputs.cache
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\obj\Debug\netcoreapp3.0\Atelier auto.AssemblyInfo.cs
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\bin\Debug\netcoreapp3.0\Atelier auto.exe
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\bin\Debug\netcoreapp3.0\Atelier auto.deps.json
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\bin\Debug\netcoreapp3.0\Atelier auto.runtimeconfig.json
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\bin\Debug\netcoreapp3.0\Atelier auto.runtimeconfig.dev.json
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\bin\Debug\netcoreapp3.0\Atelier auto.dll
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\bin\Debug\netcoreapp3.0\Atelier auto.pdb
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\obj\Debug\netcoreapp3.0\Atelier auto.dll
+D:\c# projects\proiect 18.11.20\proiect\Atelier auto\Atelier auto\obj\Debug\netcoreapp3.0\Atelier auto.pdb
